@@ -4,7 +4,7 @@
 # Nombres:
 * Stalyn Lescano
 * Romel Toapanta
-# Carrera : Ing Electromecanica 
+# Carrera : Ing. Electromecanica 
 # Nivel : Segundo 
 # Leccion N°1
 1. ¿Qué es un paradigma?
