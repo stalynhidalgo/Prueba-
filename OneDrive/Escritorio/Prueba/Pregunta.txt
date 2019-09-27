@@ -1,2 +1,2 @@
 ¿ Que es un paradigma ?
-Es un estilo de desarrollo de programas, un modelo para resolver problemas computacionales. 
+Es un estilo de desarrollo de programas, un modelo para resolver problemas computacionales.
